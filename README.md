@@ -1,2 +1,2 @@
-# Tableau-Power-BI
+# Tableau and Power-BI
 * Data Visualizations
